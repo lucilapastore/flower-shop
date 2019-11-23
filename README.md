@@ -9,4 +9,6 @@ It was a real-world-like project, built with business specifications.
 I got feedback about the achievement of technical and soft skills gained during this section of the program.
 I personalized this project, so now I have something unique to share with potential employers during my job search.
 
-Preview:
+Developing the project, I followed the best practices that I already learned in the previous projects, like setting-up a code linter, using Github flow, making good commit messages and writing a good README.
+
+# Assessment criteria (agregar)
